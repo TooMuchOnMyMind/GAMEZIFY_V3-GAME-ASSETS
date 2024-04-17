@@ -2,7 +2,7 @@
 src files for GAMEZIFY V3
 
 ## Usage
-1. Go to [download-github-directory.github.io]
+1. Go to [https://download-github-directory.github.io]
 2. Copy this link: https://github.com/TooMuchOnMyMind/GAMEZIFY_V3-GAME-ASSETS/edit/main/src/
 3. Paste it into the download bar
 4. Click Enter
