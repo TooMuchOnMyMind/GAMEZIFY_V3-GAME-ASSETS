@@ -15,11 +15,3 @@ Game assets for Gamezify V3
 - GAMEZIFY's assets
 
 
-## How to use
-
-1. Fork repository
-2. Unpack repository
-3. Drag and drop games into IDE
-4. Copy the "Relative Path"
-5. Paste it into your code
-6. DONE!
